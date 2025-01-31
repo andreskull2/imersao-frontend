@@ -2,6 +2,16 @@
     /* FONT */
     --font-dm-sans: "DM Sans", sans-serif;
     /* COLORS */
+    --bg-color: #000;
+    --bg-shape: #121212;
+    --bg-light-shape: #242424;
     --bg-icon: #131313;
+    --ff-primary-color: #ffffff;
+    --ff-secondary-color: #a7a7a7;
+    --ff-color: #b3b3b3;
     --bg-arrow-color: rgba(0,0,0,7);
+    --stroke-gray: #878787;
+    --bg-artist: #181818;
+    --bg-artist-hover: #252525;
+    --bg-artist-categorie: #6a6a6a;
 }
